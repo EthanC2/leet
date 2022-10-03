@@ -1,4 +1,4 @@
-# leetspeak - a leetspeak converter
+# leet - a leetspeak converter
 Leetspeak is a language in hacker culture that uses a modified Latin alphabet. To
 translate into leetspeak, you replace certain letters (usually vowels) with numbers
 or symbols. For example, "haxor" (slang for "hacker") becomes "h4x0r" or "h4x02". Since
