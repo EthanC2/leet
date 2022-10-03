@@ -1,4 +1,6 @@
 mod leetspeak;
+mod translation_tables;
+
 use clap::{Command, Arg, ArgAction, value_parser};
 
 fn main() {
