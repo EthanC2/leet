@@ -32,5 +32,5 @@ fn main() {
 
     let text = matches.get_one::<String>("text").expect("text is required");
     let level = matches.get_one::<u8>("level").expect("level has a default value");
-    println!("{} => {}", text, leetspeak::translate(text, level));
+    println!("{}", leetspeak::translate(text, level));
 }
